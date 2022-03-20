@@ -1,3 +1,23 @@
 /* Klases ar kitus elementų atributus galite pridėti jeigu manote, 
 kad jie jums yra reikalingi. Galite naudoti CSS tiek atskirame faile, 
 tiek <style> viduje ar inline be jokių ribojimų. */
+
+.spalva {
+    margin: 40px;
+}
+
+.create {
+    margin: 20px;
+}
+
+.rutul {
+    border-radius: 50%;
+    border: 2px;
+    border-color: #000;
+    line-height: 20px;
+    display: inline;
+    margin: 10px;
+    width: 60px;
+    height: 10px;
+    padding: 20px;
+}
